@@ -1,2 +1,4 @@
 Hello
 World
+~~~
+Today is a lovely day!
