@@ -2,4 +2,4 @@ first random file
 
 fixed this
 
-Another last line
+last line
